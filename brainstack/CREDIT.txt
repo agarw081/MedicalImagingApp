@@ -1,0 +1,2 @@
+Brain data found at: https://graphics.stanford.edu/data/voldata/
+Converted to png from tiff using Image Magick: http://www.imagemagick.org
